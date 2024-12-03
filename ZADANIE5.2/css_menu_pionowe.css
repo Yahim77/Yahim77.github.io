@@ -1,12 +1,12 @@
 ul
 {
-	float:  left;
 	list-style: none;
 }
 
 li a
 {
 	display: block;
+	float:  left;
 	width: 180px;
 	font-size: 1em;
 	text-align: center;
