@@ -29,15 +29,13 @@ li a:hover
 	{
 		font-size: 25px;
 		font-style: Comic Sans MS;
-		font-color: white;
-		background-color: green;
+		background-color: gray;
 		text-align:center;
 		min-height:100px;
 	}
 #stopka
 { clear:both;
- font-color: white;
- background-color: green;
+ background-color: gray;
  text-align: center;
  min-height:50px;
 }
