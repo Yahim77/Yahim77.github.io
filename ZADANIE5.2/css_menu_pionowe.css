@@ -29,15 +29,15 @@ li a:hover
 	{
 		font-size: 25px;
 		font-style: MC comic sans;
-		color: white;
-		background: 1C653C;
+		font-color: white;
+		background: #1C653C;
 		text-align:center;
 		min-height:100px;
 	}
 #stopka
 { clear:both;
- color: white;
- background: 1C653C;
+ font-color: white;
+ background: #1C653C;
  text-align: center;
  min-height:50px;
 }
