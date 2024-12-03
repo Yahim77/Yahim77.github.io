@@ -27,13 +27,16 @@ li a:hover
 
 #naglowek
 	{
-		background: gray;
+		font-style: MC comic sans;
+		color: white;
+		background: 1C653C;
 		text-align:center;
 		min-height:100px;
 	}
 #stopka
 { clear:both;
- background: gray;
+ color: white;
+ background: 1C653C;
  text-align: center;
  min-height:50px;
 }
